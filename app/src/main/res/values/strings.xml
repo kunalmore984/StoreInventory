@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Store Inventory</string>
+    <string name="database_is_empty">Database is empty</string>
+    <string name="add_data_by_clicking_add_button_below">add data by clicking add button below</string>
+    <string name="name_of_the_product">Name of the product :</string>
+    <string name="insert_dummy_data">insert dummy data</string>
+    <string name="delete_all_entries">delete all entries</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="name">Name :</string>
+    <string name="quantity">Quantity :</string>
+</resources>
